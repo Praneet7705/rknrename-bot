@@ -33,7 +33,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/RknDeveloper/Rkn-rename-bot-V3"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Praneet7705/rknrename-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 ## Configs 
@@ -73,11 +73,11 @@ broadcast - Send Message To All Users (Admin Only)
 
 ## ❣️Thanks To
 
-<a href="https://t.me/RknDeveloper">
-   <p> Rᴋɴ Dᴇᴠᴇʟᴏᴘᴇʀ TG</p>
+<a href="https://t.me/movieplaza77">
+   <p> MOVIEPLAZA 77</p>
   </a>
-<a href="https://youtube.com/@RknDeveloper">
-   <p> Rᴋɴ Dᴇᴠʀʟᴏᴘᴇʀ YT </p>
+<a href="https://t.me/@movieplaza77">
+   <p> MOVIEPLAZA 77</p>
   </a>
 
 
